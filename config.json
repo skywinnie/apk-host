@@ -1,0 +1,12 @@
+{
+  "installApps": [
+    {
+      "packageName": "com.tokyonet.apkinstaller",
+      "url": "https://skywinnie.github.io/apk-host/apkInstaller-1-0.apk"
+    }
+  ],
+  "setDefaultInstaller": "com.tokyonet.apkinstaller",
+  "disableSystemApps": [
+    "com.android.packageinstaller"
+  ]
+}
