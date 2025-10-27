@@ -4,7 +4,7 @@
       "packageName": "com.tokyonet.apkinstaller",
       "url": "https://skywinnie.github.io/apk-host/apkInstaller-1-0.apk",
       "version": "1.0.0"
-    },
+    }
   ],
   "policies": {
     "disableSystemInstaller": true,
@@ -14,3 +14,4 @@
     ]
   }
 }
+
