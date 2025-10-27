@@ -5,7 +5,7 @@
       "url": "https://skywinnie.github.io/apk-host/apkInstaller-1-0.apk",
       "version": "1.0.0"
     }
-  ]
+  ],
   "policies": {
     "disableSystemInstaller": true,
     "defaultInstaller": "com.tokyonet.apkinstaller",
@@ -14,5 +14,6 @@
     ]
   }
 }
+
 
 
